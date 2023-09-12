@@ -130,19 +130,19 @@
     "url": "https://www.runningcheese.com/aaa",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "cheeselist",
-    "status": "up",
-    "uptime": "61.11%",
-    "uptimeDay": "61.11%",
-    "uptimeWeek": "61.11%",
-    "uptimeMonth": "61.11%",
-    "uptimeYear": "61.11%",
+    "status": "down",
+    "uptime": "81.55%",
+    "uptimeDay": "81.55%",
+    "uptimeWeek": "81.55%",
+    "uptimeMonth": "81.55%",
+    "uptimeYear": "81.55%",
     "time": 5000,
     "timeDay": 5000,
     "timeWeek": 5000,
     "timeMonth": 5000,
     "timeYear": 5000,
     "dailyMinutesDown": {
-      "2023-09-12": 25
+      "2023-09-12": 20
     }
   },
   {
