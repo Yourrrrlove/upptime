@@ -3,6 +3,8 @@ owner: Yourrrrlove # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
+  - name: Xiaohongshu-Wang
+    url: https://www.xiaohongshu.com/user/profile/5d1d9a0400000000160115c6?xhsshare=CopyLink&appuid=64d8c888000000000100dc16&apptime=1691929476
   - name: TodayHIT
     url: http://today.hit.edu.cn
   - name: HITISE
@@ -15,21 +17,25 @@ sites:
     url: http://medwww.upc.edu.cn
   - name: HITLYQ
     url: http://homepage.hit.edu.cn/liyongqiang
+  - name: cheeselist
+    url: https://www.runningcheese.com/aaa
+  - name: runningcheese
+    url: https://www.runningcheese.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://usercontent.githubfast.com/raw/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://githubfast.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://githubfast.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://githubfast.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
