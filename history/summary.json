@@ -76,19 +76,19 @@
     "url": "https://www.upc.edu.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.upc.edu.cn.ico",
     "slug": "upc",
-    "status": "down",
-    "uptime": "91.55%",
-    "uptimeDay": "91.55%",
-    "uptimeWeek": "91.55%",
-    "uptimeMonth": "91.55%",
-    "uptimeYear": "91.55%",
-    "time": 2329,
-    "timeDay": 2329,
-    "timeWeek": 2329,
-    "timeMonth": 2329,
-    "timeYear": 2329,
+    "status": "up",
+    "uptime": "80.17%",
+    "uptimeDay": "80.17%",
+    "uptimeWeek": "80.17%",
+    "uptimeMonth": "80.17%",
+    "uptimeYear": "80.17%",
+    "time": 2188,
+    "timeDay": 2188,
+    "timeWeek": 2188,
+    "timeMonth": 2188,
+    "timeYear": 2188,
     "dailyMinutesDown": {
-      "2023-09-12": 2
+      "2023-09-12": 7
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "http://medwww.upc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/medwww.upc.edu.cn.ico",
     "slug": "upcme",
-    "status": "down",
-    "uptime": "93.09%",
-    "uptimeDay": "93.09%",
-    "uptimeWeek": "93.09%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "93.09%",
-    "time": 2291,
-    "timeDay": 2291,
-    "timeWeek": 2291,
-    "timeMonth": 2291,
-    "timeYear": 2291,
+    "status": "up",
+    "uptime": "81.24%",
+    "uptimeDay": "81.24%",
+    "uptimeWeek": "81.24%",
+    "uptimeMonth": "81.24%",
+    "uptimeYear": "81.24%",
+    "time": 2203,
+    "timeDay": 2203,
+    "timeWeek": 2203,
+    "timeMonth": 2203,
+    "timeYear": 2203,
     "dailyMinutesDown": {
-      "2023-09-12": 2
+      "2023-09-12": 6
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "https://www.runningcheese.com/aaa",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "cheeselist",
-    "status": "down",
-    "uptime": "25.26%",
-    "uptimeDay": "25.26%",
-    "uptimeWeek": "25.26%",
-    "uptimeMonth": "25.26%",
-    "uptimeYear": "25.26%",
-    "time": 4530,
-    "timeDay": 4530,
-    "timeWeek": 4530,
-    "timeMonth": 4530,
-    "timeYear": 4530,
+    "status": "up",
+    "uptime": "21.35%",
+    "uptimeDay": "21.35%",
+    "uptimeWeek": "21.35%",
+    "uptimeMonth": "21.35%",
+    "uptimeYear": "21.35%",
+    "time": 3899,
+    "timeDay": 3899,
+    "timeWeek": 3899,
+    "timeMonth": 3899,
+    "timeYear": 3899,
     "dailyMinutesDown": {
-      "2023-09-12": 16
+      "2023-09-12": 20
     }
   },
   {
@@ -154,19 +154,19 @@
     "url": "https://www.runningcheese.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "runningcheese",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
-    "time": 11351,
-    "timeDay": 11351,
-    "timeWeek": 11351,
-    "timeMonth": 11351,
-    "timeYear": 11351,
+    "status": "up",
+    "uptime": "81.89%",
+    "uptimeDay": "81.89%",
+    "uptimeWeek": "81.89%",
+    "uptimeMonth": "81.89%",
+    "uptimeYear": "81.89%",
+    "time": 7999,
+    "timeDay": 7999,
+    "timeWeek": 7999,
+    "timeMonth": 7999,
+    "timeYear": 7999,
     "dailyMinutesDown": {
-      "2023-09-12": 0
+      "2023-09-12": 5
     }
   }
 ]
