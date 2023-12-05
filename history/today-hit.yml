@@ -1,7 +1,7 @@
 url: http://today.hit.edu.cn
-status: down
-code: 503
-responseTime: 5196
-lastUpdated: 2023-12-05T02:52:39.905Z
+status: up
+code: 200
+responseTime: 1807
+lastUpdated: 2023-12-05T02:59:09.256Z
 startTime: 2023-09-12T14:14:48.727Z
 generator: Upptime <https://github.com/upptime/upptime>
