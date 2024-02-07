@@ -4,11 +4,11 @@
     "url": "https://www.xiaohongshu.com/user/profile/5d1d9a0400000000160115c6?xhsshare=CopyLink&appuid=64d8c888000000000100dc16&apptime=1691929476",
     "icon": "https://icons.duckduckgo.com/ip3/www.xiaohongshu.com.ico",
     "slug": "xiaohongshu-wang",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "92.65%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "93.10%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.95%",
     "time": 1385,
     "timeDay": 1768,
@@ -16,7 +16,7 @@
     "timeMonth": 1684,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2024-02-07": 106
+      "2024-02-07": 99
     }
   },
   {
@@ -93,7 +93,7 @@
     "uptimeMonth": "98.42%",
     "uptimeYear": "98.86%",
     "time": 2622,
-    "timeDay": 2985,
+    "timeDay": 2981,
     "timeWeek": 4047,
     "timeMonth": 2931,
     "timeYear": 2622,
@@ -184,7 +184,7 @@
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.86%",
     "time": 2761,
-    "timeDay": 2908,
+    "timeDay": 2918,
     "timeWeek": 2863,
     "timeMonth": 2791,
     "timeYear": 2761,
