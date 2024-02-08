@@ -4,19 +4,19 @@
     "url": "https://www.xiaohongshu.com/user/profile/5d1d9a0400000000160115c6?xhsshare=CopyLink&appuid=64d8c888000000000100dc16&apptime=1691929476",
     "icon": "https://icons.duckduckgo.com/ip3/www.xiaohongshu.com.ico",
     "slug": "xiaohongshu-wang",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "88.88%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.88%",
-    "time": 1443,
-    "timeDay": 1714,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "87.60%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.86%",
+    "time": 1445,
+    "timeDay": 1716,
     "timeWeek": 1751,
-    "timeMonth": 1699,
-    "timeYear": 1443,
+    "timeMonth": 1700,
+    "timeYear": 1445,
     "dailyMinutesDown": {
-      "2024-02-08": 139,
+      "2024-02-08": 172,
       "2024-02-07": 120
     }
   },
@@ -89,9 +89,9 @@
     "slug": "upc",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "98.89%",
     "time": 2623,
     "timeDay": 2732,
@@ -99,7 +99,7 @@
     "timeMonth": 2925,
     "timeYear": 2623,
     "dailyMinutesDown": {
-      "2024-02-08": 37,
+      "2024-02-08": 31,
       "2024-02-07": 45,
       "2024-02-05": 30,
       "2024-02-03": 51,
@@ -169,7 +169,7 @@
       "2023-10-09": 23,
       "2023-10-07": 18,
       "2023-10-06": 59,
-      "2023-10-04": 27
+      "2023-10-04": 47
     }
   },
   {
@@ -179,9 +179,9 @@
     "slug": "upcme",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.45%",
     "uptimeYear": "98.88%",
     "time": 2760,
     "timeDay": 2635,
@@ -189,7 +189,7 @@
     "timeMonth": 2784,
     "timeYear": 2760,
     "dailyMinutesDown": {
-      "2024-02-08": 37,
+      "2024-02-08": 31,
       "2024-02-07": 45,
       "2024-02-05": 30,
       "2024-02-03": 50,
@@ -259,7 +259,8 @@
       "2023-10-02": 64,
       "2023-09-30": 15,
       "2023-09-28": 17,
-      "2023-09-22": 17
+      "2023-09-22": 17,
+      "2023-09-21": 17
     }
   },
   {
