@@ -6,9 +6,9 @@
     "slug": "xiaohongshu-wang",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "85.09%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "85.52%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.89%",
     "time": 1426,
     "timeDay": 1704,
@@ -16,7 +16,7 @@
     "timeMonth": 1688,
     "timeYear": 1426,
     "dailyMinutesDown": {
-      "2024-02-08": 121,
+      "2024-02-08": 114,
       "2024-02-07": 120
     }
   },
