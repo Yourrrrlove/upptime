@@ -4,9 +4,9 @@
     "url": "https://www.xiaohongshu.com/user/profile/5d1d9a0400000000160115c6?xhsshare=CopyLink&appuid=64d8c888000000000100dc16&apptime=1691929476",
     "icon": "https://icons.duckduckgo.com/ip3/www.xiaohongshu.com.ico",
     "slug": "xiaohongshu-wang",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "86.08%",
+    "uptimeDay": "86.05%",
     "uptimeWeek": "96.82%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.85%",
@@ -16,6 +16,7 @@
     "timeMonth": 1713,
     "timeYear": 1453,
     "dailyMinutesDown": {
+      "2024-02-09": 0,
       "2024-02-08": 201,
       "2024-02-07": 120
     }
@@ -290,11 +291,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "cheeselist",
     "status": "up",
-    "uptime": "96.40%",
+    "uptime": "96.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.40%",
+    "uptimeYear": "96.41%",
     "time": 5303,
     "timeDay": 3257,
     "timeWeek": 3304,
