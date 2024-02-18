@@ -1,7 +1,7 @@
 url: https://www.runningcheese.com/aaa
-status: up
-code: 200
-responseTime: 3439
-lastUpdated: 2024-02-17T23:11:15.210Z
+status: down
+code: 500
+responseTime: 970
+lastUpdated: 2024-02-18T13:11:33.095Z
 startTime: 2023-09-12T14:23:10.969Z
 generator: Upptime <https://github.com/upptime/upptime>
