@@ -91,9 +91,9 @@
     "slug": "upc",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "98.41%",
     "uptimeYear": "98.97%",
     "time": 2756,
     "timeDay": 3226,
@@ -101,7 +101,7 @@
     "timeMonth": 3597,
     "timeYear": 2756,
     "dailyMinutesDown": {
-      "2024-02-20": 24,
+      "2024-02-20": 17,
       "2024-02-19": 32,
       "2024-02-15": 44,
       "2024-02-14": 51,
@@ -168,7 +168,8 @@
       "2023-10-26": 20,
       "2023-10-25": 20,
       "2023-10-24": 48,
-      "2023-10-23": 33
+      "2023-10-23": 33,
+      "2023-10-20": 18
     }
   },
   {
@@ -177,18 +178,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/medwww.upc.edu.cn.ico",
     "slug": "upcme",
     "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.98%",
+    "uptime": "98.97%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.97%",
     "time": 2760,
     "timeDay": 2945,
     "timeWeek": 2799,
     "timeMonth": 2783,
     "timeYear": 2760,
     "dailyMinutesDown": {
-      "2024-02-20": 24,
+      "2024-02-20": 17,
       "2024-02-19": 32,
       "2024-02-15": 43,
       "2024-02-14": 50,
@@ -256,7 +257,7 @@
       "2023-10-20": 18,
       "2023-10-17": 24,
       "2023-10-13": 21,
-      "2023-10-11": 21
+      "2023-10-11": 40
     }
   },
   {
@@ -285,10 +286,10 @@
     "url": "https://www.runningcheese.com/aaa",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "cheeselist",
-    "status": "up",
+    "status": "down",
     "uptime": "96.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.52%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "91.51%",
     "uptimeMonth": "98.05%",
     "uptimeYear": "96.29%",
     "time": 5178,
@@ -297,6 +298,7 @@
     "timeMonth": 3416,
     "timeYear": 5178,
     "dailyMinutesDown": {
+      "2024-02-20": 1,
       "2024-02-15": 364,
       "2024-02-14": 492,
       "2024-01-07": 91,
