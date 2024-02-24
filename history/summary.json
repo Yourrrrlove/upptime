@@ -27,18 +27,19 @@
     "url": "http://today.hit.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/today.hit.edu.cn.ico",
     "slug": "today-hit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 3714,
-    "timeDay": 3727,
-    "timeWeek": 2720,
-    "timeMonth": 2917,
-    "timeYear": 3714,
+    "time": 3718,
+    "timeDay": 4116,
+    "timeWeek": 2944,
+    "timeMonth": 2958,
+    "timeYear": 3718,
     "dailyMinutesDown": {
+      "2024-02-24": 0,
       "2023-11-21": 31,
       "2023-10-29": 46
     }
@@ -91,9 +92,9 @@
     "slug": "upc",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "98.99%",
     "time": 2766,
     "timeDay": 2658,
@@ -101,7 +102,6 @@
     "timeMonth": 3632,
     "timeYear": 2766,
     "dailyMinutesDown": {
-      "2024-02-24": 10,
       "2024-02-22": 29,
       "2024-02-21": 15,
       "2024-02-20": 17,
@@ -170,7 +170,8 @@
       "2023-10-29": 132,
       "2023-10-26": 20,
       "2023-10-25": 20,
-      "2023-10-24": 48
+      "2023-10-24": 48,
+      "2023-10-23": 16
     }
   },
   {
@@ -180,9 +181,9 @@
     "slug": "upcme",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "98.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.00%",
     "time": 2760,
     "timeDay": 2812,
@@ -190,7 +191,6 @@
     "timeMonth": 2794,
     "timeYear": 2760,
     "dailyMinutesDown": {
-      "2024-02-24": 10,
       "2024-02-22": 29,
       "2024-02-21": 15,
       "2024-02-20": 17,
@@ -259,7 +259,8 @@
       "2023-10-24": 48,
       "2023-10-23": 33,
       "2023-10-20": 18,
-      "2023-10-17": 24
+      "2023-10-17": 24,
+      "2023-10-13": 21
     }
   },
   {
@@ -297,7 +298,7 @@
     "time": 5171,
     "timeDay": 4421,
     "timeWeek": 4344,
-    "timeMonth": 3751,
+    "timeMonth": 3760,
     "timeYear": 5171,
     "dailyMinutesDown": {
       "2024-02-23": 113,
@@ -365,7 +366,7 @@
     "time": 2374,
     "timeDay": 833,
     "timeWeek": 898,
-    "timeMonth": 856,
+    "timeMonth": 845,
     "timeYear": 2374,
     "dailyMinutesDown": {
       "2024-02-23": 113,
