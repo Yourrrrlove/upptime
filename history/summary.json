@@ -89,19 +89,19 @@
     "url": "https://www.upc.edu.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.upc.edu.cn.ico",
     "slug": "upc",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "97.57%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "97.52%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "98.38%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 2780,
     "timeDay": 3485,
-    "timeWeek": 3117,
-    "timeMonth": 3658,
+    "timeWeek": 3126,
+    "timeMonth": 3669,
     "timeYear": 2780,
     "dailyMinutesDown": {
-      "2024-02-28": 16,
+      "2024-02-28": 17,
       "2024-02-27": 19,
       "2024-02-22": 29,
       "2024-02-21": 15,
@@ -170,8 +170,7 @@
       "2023-10-31": 19,
       "2023-10-29": 132,
       "2023-10-26": 20,
-      "2023-10-25": 20,
-      "2023-10-24": 17
+      "2023-10-25": 20
     }
   },
   {
@@ -179,16 +178,16 @@
     "url": "http://medwww.upc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/medwww.upc.edu.cn.ico",
     "slug": "upcme",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "97.61%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "97.59%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "98.44%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 2762,
     "timeDay": 2772,
-    "timeWeek": 2773,
-    "timeMonth": 2787,
+    "timeWeek": 2781,
+    "timeMonth": 2788,
     "timeYear": 2762,
     "dailyMinutesDown": {
       "2024-02-28": 15,
@@ -259,8 +258,7 @@
       "2023-10-26": 19,
       "2023-10-25": 19,
       "2023-10-24": 48,
-      "2023-10-23": 33,
-      "2023-10-20": 18
+      "2023-10-23": 33
     }
   },
   {
