@@ -92,18 +92,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.upc.edu.cn.ico",
     "slug": "upc",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.03%",
     "time": 2795,
     "timeDay": 3117,
     "timeWeek": 3204,
     "timeMonth": 3611,
     "timeYear": 2795,
     "dailyMinutesDown": {
-      "2024-03-05": 11,
       "2024-03-04": 108,
       "2024-02-29": 18,
       "2024-02-28": 58,
@@ -172,7 +171,8 @@
       "2023-11-13": 30,
       "2023-11-10": 32,
       "2023-11-03": 31,
-      "2023-10-31": 19
+      "2023-10-31": 19,
+      "2023-10-29": 81
     }
   },
   {
@@ -182,9 +182,9 @@
     "slug": "upcme",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.69%",
     "uptimeYear": "99.03%",
     "time": 2767,
     "timeDay": 3652,
@@ -192,7 +192,6 @@
     "timeMonth": 2796,
     "timeYear": 2767,
     "dailyMinutesDown": {
-      "2024-03-05": 10,
       "2024-03-04": 107,
       "2024-02-29": 18,
       "2024-02-28": 56,
@@ -261,7 +260,8 @@
       "2023-10-31": 19,
       "2023-10-29": 132,
       "2023-10-26": 19,
-      "2023-10-25": 19
+      "2023-10-25": 19,
+      "2023-10-24": 17
     }
   },
   {
@@ -290,12 +290,12 @@
     "url": "https://www.runningcheese.com/aaa",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "cheeselist",
-    "status": "up",
-    "uptime": "96.48%",
-    "uptimeDay": "98.64%",
+    "status": "down",
+    "uptime": "96.50%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "96.48%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "96.50%",
     "time": 5195,
     "timeDay": 7792,
     "timeWeek": 6676,
@@ -353,7 +353,7 @@
       "2023-09-16": 57,
       "2023-09-15": 108,
       "2023-09-14": 189,
-      "2023-09-13": 60
+      "2023-09-13": 33
     }
   },
   {
