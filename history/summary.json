@@ -8,12 +8,12 @@
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.67%",
-    "uptimeMonth": "97.90%",
+    "uptimeMonth": "97.95%",
     "uptimeYear": "99.62%",
     "time": 1466,
     "timeDay": 1591,
     "timeWeek": 1317,
-    "timeMonth": 1575,
+    "timeMonth": 1572,
     "timeYear": 1466,
     "dailyMinutesDown": {
       "2024-03-02": 167,
@@ -91,18 +91,19 @@
     "url": "https://www.upc.edu.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.upc.edu.cn.ico",
     "slug": "upc",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.75%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.07%",
     "time": 2799,
     "timeDay": 3771,
-    "timeWeek": 3167,
-    "timeMonth": 3601,
+    "timeWeek": 3120,
+    "timeMonth": 3606,
     "timeYear": 2799,
     "dailyMinutesDown": {
+      "2024-03-07": 1,
       "2024-03-04": 108,
       "2024-02-29": 18,
       "2024-02-28": 58,
@@ -171,8 +172,7 @@
       "2023-11-13": 30,
       "2023-11-10": 32,
       "2023-11-03": 31,
-      "2023-10-31": 19,
-      "2023-10-29": 81
+      "2023-10-31": 19
     }
   },
   {
@@ -180,18 +180,19 @@
     "url": "http://medwww.upc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/medwww.upc.edu.cn.ico",
     "slug": "upcme",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.04%",
     "time": 2766,
     "timeDay": 2685,
-    "timeWeek": 2862,
+    "timeWeek": 2859,
     "timeMonth": 2790,
     "timeYear": 2766,
     "dailyMinutesDown": {
+      "2024-03-07": 0,
       "2024-03-04": 107,
       "2024-02-29": 18,
       "2024-02-28": 56,
@@ -260,8 +261,7 @@
       "2023-10-31": 19,
       "2023-10-29": 132,
       "2023-10-26": 19,
-      "2023-10-25": 19,
-      "2023-10-24": 17
+      "2023-10-25": 19
     }
   },
   {
@@ -292,9 +292,9 @@
     "slug": "cheeselist",
     "status": "up",
     "uptime": "96.53%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "96.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "96.92%",
     "uptimeYear": "96.53%",
     "time": 5195,
     "timeDay": 6049,
@@ -302,7 +302,6 @@
     "timeMonth": 4433,
     "timeYear": 5195,
     "dailyMinutesDown": {
-      "2024-03-07": 6,
       "2024-03-05": 20,
       "2024-02-28": 21,
       "2024-02-26": 54,
@@ -354,7 +353,7 @@
       "2023-09-16": 57,
       "2023-09-15": 108,
       "2023-09-14": 189,
-      "2023-09-13": 33
+      "2023-09-13": 60
     }
   },
   {
@@ -364,9 +363,9 @@
     "slug": "runningcheese",
     "status": "up",
     "uptime": "98.30%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "97.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "98.30%",
     "time": 2262,
     "timeDay": 806,
@@ -374,7 +373,6 @@
     "timeMonth": 819,
     "timeYear": 2262,
     "dailyMinutesDown": {
-      "2024-03-07": 6,
       "2024-02-26": 54,
       "2024-02-23": 113,
       "2024-02-22": 269,
