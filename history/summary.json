@@ -91,19 +91,19 @@
     "url": "https://www.upc.edu.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.upc.edu.cn.ico",
     "slug": "upc",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "98.12%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "98.09%",
     "uptimeMonth": "98.74%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 2805,
     "timeDay": 2963,
     "timeWeek": 3087,
     "timeMonth": 3624,
     "timeYear": 2805,
     "dailyMinutesDown": {
-      "2024-03-09": 16,
+      "2024-03-09": 18,
       "2024-03-08": 64,
       "2024-03-07": 3,
       "2024-03-04": 108,
@@ -172,7 +172,7 @@
       "2023-11-15": 63,
       "2023-11-14": 16,
       "2023-11-13": 30,
-      "2023-11-10": 32
+      "2023-11-10": 17
     }
   },
   {
@@ -180,19 +180,19 @@
     "url": "http://medwww.upc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/medwww.upc.edu.cn.ico",
     "slug": "upcme",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "99.04%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.06%",
     "time": 2771,
     "timeDay": 3390,
     "timeWeek": 2976,
     "timeMonth": 2820,
     "timeYear": 2771,
     "dailyMinutesDown": {
-      "2024-03-09": 15,
+      "2024-03-09": 17,
       "2024-03-08": 63,
       "2024-03-07": 2,
       "2024-03-04": 107,
@@ -261,7 +261,7 @@
       "2023-11-10": 17,
       "2023-11-03": 30,
       "2023-10-31": 19,
-      "2023-10-29": 132
+      "2023-10-29": 81
     }
   },
   {
@@ -290,19 +290,19 @@
     "url": "https://www.runningcheese.com/aaa",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "cheeselist",
-    "status": "up",
-    "uptime": "96.57%",
-    "uptimeDay": "98.86%",
+    "status": "down",
+    "uptime": "96.58%",
+    "uptimeDay": "98.81%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "96.88%",
-    "uptimeYear": "96.57%",
+    "uptimeYear": "96.58%",
     "time": 5188,
     "timeDay": 4745,
     "timeWeek": 5468,
     "timeMonth": 4465,
     "timeYear": 5188,
     "dailyMinutesDown": {
-      "2024-03-09": 16,
+      "2024-03-09": 17,
       "2024-03-05": 20,
       "2024-02-28": 21,
       "2024-02-26": 54,
@@ -353,8 +353,7 @@
       "2023-09-17": 19,
       "2023-09-16": 57,
       "2023-09-15": 108,
-      "2023-09-14": 189,
-      "2023-09-13": 33
+      "2023-09-14": 189
     }
   },
   {
