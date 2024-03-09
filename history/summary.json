@@ -93,9 +93,9 @@
     "slug": "upc",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.07%",
     "time": 2805,
     "timeDay": 2963,
@@ -103,7 +103,7 @@
     "timeMonth": 3624,
     "timeYear": 2805,
     "dailyMinutesDown": {
-      "2024-03-09": 23,
+      "2024-03-09": 16,
       "2024-03-08": 64,
       "2024-03-07": 3,
       "2024-03-04": 108,
@@ -172,7 +172,7 @@
       "2023-11-15": 63,
       "2023-11-14": 16,
       "2023-11-13": 30,
-      "2023-11-10": 17
+      "2023-11-10": 32
     }
   },
   {
@@ -181,18 +181,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/medwww.upc.edu.cn.ico",
     "slug": "upcme",
     "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.05%",
+    "uptime": "99.04%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.04%",
     "time": 2771,
     "timeDay": 3390,
     "timeWeek": 2976,
     "timeMonth": 2820,
     "timeYear": 2771,
     "dailyMinutesDown": {
-      "2024-03-09": 21,
+      "2024-03-09": 15,
       "2024-03-08": 63,
       "2024-03-07": 2,
       "2024-03-04": 107,
@@ -261,7 +261,7 @@
       "2023-11-10": 17,
       "2023-11-03": 30,
       "2023-10-31": 19,
-      "2023-10-29": 81
+      "2023-10-29": 132
     }
   },
   {
@@ -290,18 +290,19 @@
     "url": "https://www.runningcheese.com/aaa",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "cheeselist",
-    "status": "up",
-    "uptime": "96.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "96.56%",
+    "status": "down",
+    "uptime": "96.57%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "96.57%",
     "time": 5187,
     "timeDay": 4554,
     "timeWeek": 5464,
     "timeMonth": 4451,
     "timeYear": 5187,
     "dailyMinutesDown": {
+      "2024-03-09": 1,
       "2024-03-05": 20,
       "2024-02-28": 21,
       "2024-02-26": 54,
@@ -353,7 +354,7 @@
       "2023-09-16": 57,
       "2023-09-15": 108,
       "2023-09-14": 189,
-      "2023-09-13": 60
+      "2023-09-13": 33
     }
   },
   {
