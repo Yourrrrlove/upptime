@@ -93,18 +93,19 @@
     "url": "https://www.upc.edu.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.upc.edu.cn.ico",
     "slug": "upc",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.68%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.24%",
     "time": 2990,
     "timeDay": 3361,
     "timeWeek": 4569,
     "timeMonth": 3936,
     "timeYear": 2990,
     "dailyMinutesDown": {
+      "2024-03-29": 1,
       "2024-03-27": 16,
       "2024-03-26": 44,
       "2024-03-25": 15,
@@ -175,7 +176,7 @@
       "2023-12-05": 19,
       "2023-12-04": 22,
       "2023-12-03": 31,
-      "2023-12-01": 82
+      "2023-12-01": 21
     }
   },
   {
@@ -187,7 +188,7 @@
     "uptime": "91.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.27%",
+    "uptimeMonth": "51.25%",
     "uptimeYear": "91.81%",
     "time": 2765,
     "timeDay": 1974,
@@ -195,7 +196,7 @@
     "timeMonth": 2787,
     "timeYear": 2765,
     "dailyMinutesDown": {
-      "2024-03-29": 277,
+      "2024-03-29": 284,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
@@ -309,9 +310,9 @@
     "slug": "cheeselist",
     "status": "up",
     "uptime": "96.89%",
-    "uptimeDay": "90.66%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "96.89%",
     "time": 5278,
     "timeDay": 7254,
@@ -319,7 +320,6 @@
     "timeMonth": 6094,
     "timeYear": 5278,
     "dailyMinutesDown": {
-      "2024-03-29": 7,
       "2024-03-28": 127,
       "2024-03-22": 49,
       "2024-03-16": 15,
@@ -374,7 +374,7 @@
       "2023-09-17": 19,
       "2023-09-16": 57,
       "2023-09-15": 108,
-      "2023-09-14": 16
+      "2023-09-14": 32
     }
   },
   {
