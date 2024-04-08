@@ -97,17 +97,16 @@
     "slug": "upc",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.47%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "99.28%",
     "time": 2965,
-    "timeDay": 2573,
-    "timeWeek": 2576,
-    "timeMonth": 3679,
+    "timeDay": 2558,
+    "timeWeek": 2573,
+    "timeMonth": 3689,
     "timeYear": 2965,
     "dailyMinutesDown": {
-      "2024-04-08": 6,
       "2024-04-07": 38,
       "2024-04-06": 43,
       "2024-04-05": 20,
@@ -175,7 +174,8 @@
       "2023-12-28": 36,
       "2023-12-24": 33,
       "2023-12-21": 21,
-      "2023-12-15": 34
+      "2023-12-15": 34,
+      "2023-12-14": 16
     }
   },
   {
@@ -184,18 +184,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/medwww.upc.edu.cn.ico",
     "slug": "upcme",
     "status": "down",
-    "uptime": "87.40%",
+    "uptime": "87.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.77%",
-    "uptimeYear": "87.40%",
+    "uptimeMonth": "18.04%",
+    "uptimeYear": "87.31%",
     "time": 2760,
     "timeDay": 2036,
     "timeWeek": 2102,
-    "timeMonth": 2663,
+    "timeMonth": 2650,
     "timeYear": 2760,
     "dailyMinutesDown": {
-      "2024-04-08": 285,
+      "2024-04-08": 613,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -317,10 +317,10 @@
     "url": "https://www.runningcheese.com/aaa",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "cheeselist",
-    "status": "up",
+    "status": "down",
     "uptime": "97.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "97.04%",
     "time": 5259,
@@ -329,6 +329,7 @@
     "timeMonth": 5775,
     "timeYear": 5259,
     "dailyMinutesDown": {
+      "2024-04-08": 1,
       "2024-03-28": 127,
       "2024-03-22": 49,
       "2024-03-16": 15,
@@ -383,7 +384,7 @@
       "2023-09-17": 19,
       "2023-09-16": 57,
       "2023-09-15": 108,
-      "2023-09-14": 32
+      "2023-09-14": 16
     }
   },
   {
