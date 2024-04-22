@@ -95,14 +95,14 @@
     "url": "https://www.upc.edu.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.upc.edu.cn.ico",
     "slug": "upc",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "97.87%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "97.86%",
     "uptimeMonth": "98.40%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.31%",
     "time": 2942,
-    "timeDay": 2778,
+    "timeDay": 2745,
     "timeWeek": 2681,
     "timeMonth": 3022,
     "timeYear": 2942,
@@ -173,8 +173,7 @@
       "2024-01-12": 29,
       "2024-01-11": 16,
       "2024-01-09": 17,
-      "2024-01-08": 17,
-      "2024-01-04": 16
+      "2024-01-08": 17
     }
   },
   {
@@ -194,7 +193,7 @@
     "timeMonth": 1978,
     "timeYear": 2759,
     "dailyMinutesDown": {
-      "2024-04-22": 1286,
+      "2024-04-22": 1313,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
