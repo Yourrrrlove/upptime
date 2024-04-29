@@ -96,18 +96,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.upc.edu.cn.ico",
     "slug": "upc",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "99.32%",
     "time": 2937,
     "timeDay": 2606,
     "timeWeek": 2771,
     "timeMonth": 2662,
     "timeYear": 2937,
     "dailyMinutesDown": {
-      "2024-04-29": 9,
       "2024-04-26": 34,
       "2024-04-24": 28,
       "2024-04-23": 17,
@@ -173,7 +172,8 @@
       "2024-01-18": 20,
       "2024-01-17": 81,
       "2024-01-16": 19,
-      "2024-01-13": 50
+      "2024-01-13": 50,
+      "2024-01-12": 29
     }
   },
   {
@@ -193,7 +193,7 @@
     "timeMonth": 2046,
     "timeYear": 2759,
     "dailyMinutesDown": {
-      "2024-04-29": 780,
+      "2024-04-29": 797,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -336,10 +336,10 @@
     "url": "https://www.runningcheese.com/aaa",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "cheeselist",
-    "status": "up",
+    "status": "down",
     "uptime": "97.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "97.31%",
     "time": 5233,
@@ -348,6 +348,7 @@
     "timeMonth": 4698,
     "timeYear": 5233,
     "dailyMinutesDown": {
+      "2024-04-29": 1,
       "2024-04-28": 28,
       "2024-04-08": 18,
       "2024-03-28": 127,
@@ -403,7 +404,7 @@
       "2023-09-18": 19,
       "2023-09-17": 19,
       "2023-09-16": 57,
-      "2023-09-15": 108
+      "2023-09-15": 89
     }
   },
   {
@@ -411,10 +412,10 @@
     "url": "https://www.runningcheese.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "runningcheese",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.66%",
     "time": 2172,
@@ -423,6 +424,7 @@
     "timeMonth": 1042,
     "timeYear": 2172,
     "dailyMinutesDown": {
+      "2024-04-29": 0,
       "2024-04-28": 27,
       "2024-03-28": 60,
       "2024-02-26": 54,
