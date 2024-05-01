@@ -13,7 +13,7 @@
     "time": 1425,
     "timeDay": 1104,
     "timeWeek": 1166,
-    "timeMonth": 1118,
+    "timeMonth": 1122,
     "timeYear": 1425,
     "dailyMinutesDown": {
       "2024-03-02": 167,
@@ -38,7 +38,7 @@
     "time": 3624,
     "timeDay": 2587,
     "timeWeek": 3864,
-    "timeMonth": 3159,
+    "timeMonth": 3171,
     "timeYear": 3624,
     "dailyMinutesDown": {
       "2024-04-08": 16,
@@ -63,7 +63,7 @@
     "time": 1458,
     "timeDay": 1519,
     "timeWeek": 1561,
-    "timeMonth": 1515,
+    "timeMonth": 1519,
     "timeYear": 1458,
     "dailyMinutesDown": {
       "2023-10-29": 45,
@@ -84,7 +84,7 @@
     "time": 1738,
     "timeDay": 1631,
     "timeWeek": 1809,
-    "timeMonth": 1711,
+    "timeMonth": 1719,
     "timeYear": 1738,
     "dailyMinutesDown": {
       "2023-10-29": 44
@@ -96,18 +96,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.upc.edu.cn.ico",
     "slug": "upc",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.32%",
+    "uptimeDay": "94.46%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "99.32%",
     "time": 2940,
     "timeDay": 3496,
     "timeWeek": 2892,
-    "timeMonth": 2698,
+    "timeMonth": 2702,
     "timeYear": 2940,
     "dailyMinutesDown": {
-      "2024-04-30": 86,
+      "2024-04-30": 80,
       "2024-04-26": 34,
       "2024-04-24": 28,
       "2024-04-23": 17,
@@ -172,7 +172,7 @@
       "2024-01-19": 20,
       "2024-01-18": 20,
       "2024-01-17": 81,
-      "2024-01-16": 1
+      "2024-01-16": 19
     }
   },
   {
@@ -181,18 +181,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/medwww.upc.edu.cn.ico",
     "slug": "upcme",
     "status": "down",
-    "uptime": "78.80%",
+    "uptime": "78.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "78.80%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "78.78%",
     "time": 2759,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2054,
+    "timeMonth": 2068,
     "timeYear": 2759,
     "dailyMinutesDown": {
-      "2024-04-30": 1423,
+      "2024-05-01": 38,
+      "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -324,7 +325,7 @@
     "time": 1410,
     "timeDay": 1256,
     "timeWeek": 1326,
-    "timeMonth": 1305,
+    "timeMonth": 1291,
     "timeYear": 1410,
     "dailyMinutesDown": {
       "2023-10-29": 54,
@@ -345,7 +346,7 @@
     "time": 5227,
     "timeDay": 3839,
     "timeWeek": 4539,
-    "timeMonth": 4662,
+    "timeMonth": 4660,
     "timeYear": 5227,
     "dailyMinutesDown": {
       "2024-04-28": 28,
@@ -420,7 +421,7 @@
     "time": 2160,
     "timeDay": 688,
     "timeWeek": 840,
-    "timeMonth": 1037,
+    "timeMonth": 1047,
     "timeYear": 2160,
     "dailyMinutesDown": {
       "2024-04-28": 27,
