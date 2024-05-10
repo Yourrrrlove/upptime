@@ -95,18 +95,19 @@
     "url": "https://www.upc.edu.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.upc.edu.cn.ico",
     "slug": "upc",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "97.64%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "98.23%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.32%",
     "time": 2941,
-    "timeDay": 4095,
+    "timeDay": 4438,
     "timeWeek": 2992,
-    "timeMonth": 2826,
+    "timeMonth": 2830,
     "timeYear": 2941,
     "dailyMinutesDown": {
+      "2024-05-10": 0,
       "2024-05-09": 34,
       "2024-05-08": 36,
       "2024-05-06": 18,
@@ -171,8 +172,7 @@
       "2024-01-31": 28,
       "2024-01-30": 111,
       "2024-01-29": 2,
-      "2024-01-28": 15,
-      "2024-01-27": 18
+      "2024-01-28": 15
     }
   },
   {
@@ -181,18 +181,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/medwww.upc.edu.cn.ico",
     "slug": "upcme",
     "status": "down",
-    "uptime": "75.74%",
+    "uptime": "75.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.74%",
+    "uptimeYear": "75.68%",
     "time": 2759,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2759,
     "dailyMinutesDown": {
-      "2024-05-10": 477,
+      "2024-05-10": 749,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -348,9 +348,9 @@
     "slug": "cheeselist",
     "status": "up",
     "uptime": "97.43%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "97.43%",
     "time": 5228,
     "timeDay": 5014,
@@ -358,7 +358,6 @@
     "timeMonth": 4887,
     "timeYear": 5228,
     "dailyMinutesDown": {
-      "2024-05-10": 6,
       "2024-04-28": 28,
       "2024-04-08": 18,
       "2024-03-28": 127,
@@ -414,7 +413,7 @@
       "2023-09-18": 19,
       "2023-09-17": 19,
       "2023-09-16": 57,
-      "2023-09-15": 89
+      "2023-09-15": 108
     }
   },
   {
