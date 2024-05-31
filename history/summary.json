@@ -32,7 +32,7 @@
     "status": "up",
     "uptime": "97.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.86%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "75.65%",
     "uptimeYear": "97.13%",
     "time": 3600,
@@ -106,9 +106,9 @@
     "slug": "upc",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "96.42%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "96.99%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "99.25%",
     "time": 2946,
     "timeDay": 2816,
@@ -116,7 +116,7 @@
     "timeMonth": 3019,
     "timeYear": 2946,
     "dailyMinutesDown": {
-      "2024-05-31": 32,
+      "2024-05-31": 19,
       "2024-05-30": 19,
       "2024-05-29": 44,
       "2024-05-28": 21,
@@ -185,7 +185,8 @@
       "2024-02-21": 15,
       "2024-02-20": 17,
       "2024-02-19": 32,
-      "2024-02-15": 44
+      "2024-02-15": 44,
+      "2024-02-14": 34
     }
   },
   {
@@ -205,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 2759,
     "dailyMinutesDown": {
-      "2024-05-31": 568,
+      "2024-05-31": 619,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
@@ -385,18 +386,19 @@
     "url": "https://www.runningcheese.com/aaa",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "cheeselist",
-    "status": "up",
-    "uptime": "97.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.15%",
+    "status": "down",
+    "uptime": "97.27%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "85.14%",
     "uptimeMonth": "96.58%",
-    "uptimeYear": "97.26%",
+    "uptimeYear": "97.27%",
     "time": 5299,
     "timeDay": 4450,
     "timeWeek": 7593,
     "timeMonth": 6111,
     "timeYear": 5299,
     "dailyMinutesDown": {
+      "2024-05-31": 1,
       "2024-05-29": 56,
       "2024-05-27": 278,
       "2024-05-26": 1163,
@@ -454,8 +456,7 @@
       "2023-09-19": 163,
       "2023-09-18": 19,
       "2023-09-17": 19,
-      "2023-09-16": 57,
-      "2023-09-15": 15
+      "2023-09-16": 57
     }
   },
   {
@@ -463,10 +464,10 @@
     "url": "https://www.runningcheese.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.runningcheese.com.ico",
     "slug": "runningcheese",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.71%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "85.70%",
     "uptimeMonth": "96.67%",
     "uptimeYear": "98.44%",
     "time": 2067,
@@ -475,6 +476,7 @@
     "timeMonth": 1080,
     "timeYear": 2067,
     "dailyMinutesDown": {
+      "2024-05-31": 1,
       "2024-05-27": 278,
       "2024-05-26": 1162,
       "2024-05-18": 17,
